@@ -1,2 +1,2 @@
-# sample1
-Sample readme file
+# Sample Website
+A new website to study basic webpage design.
