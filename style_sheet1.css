@@ -4,9 +4,9 @@ body {
 }
 
 h1 {
-  text-align: centre;
+  text-align: center;
   font-size: 25px;
-  color: rgb(152, 184,random(255));
+  color: rgba(128, 0, 0, 0.8);
 }
 
 ul {
