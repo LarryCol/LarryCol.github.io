@@ -1,12 +1,16 @@
 body {
   background-color: ivory;
-  margin-left: 10px;
 }
 
 h1 {
   text-align: center;
-  font-size: 25px;
+  font-size: 2em; /*1em = 16px, default font size. Allows resize of fonts through browser menu*/
   color: rgba(128, 0, 0, 0.8);
+  font-family: sans-serif;
+}
+
+p.one {
+  text-align: center;
 }
 
 ul {
