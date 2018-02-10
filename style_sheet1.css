@@ -4,7 +4,7 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 2em; /*1em = 16px, default font size. Allows resize of fonts through browser menu*/
+  font-size: 3.0em; /*1em = 16px, default font size. Allows resize of fonts through browser menu*/
   color: rgba(128, 0, 0, 0.8);
   font-family: sans-serif;
 }
