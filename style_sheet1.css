@@ -13,7 +13,7 @@ p.one {
   text-align: center;
 }
 
-img { /*for the image element*/
+img { /*for the image element. 17-19 to make the image center align*/
   display: block;
   margin-left: auto;
   margin-right: auto;
