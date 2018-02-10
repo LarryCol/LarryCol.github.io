@@ -1,7 +1,12 @@
-html {
-  background-color: #d6d8e8;
-  font-size: 20px;
+body {
+  background-color: ivory;
   margin-left: 10px;
+}
+
+h1 {
+  text-align: centre;
+  font-size: 25px;
+  color: rgb(152, 184,random(255));
 }
 
 ul {
