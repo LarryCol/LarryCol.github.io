@@ -9,8 +9,8 @@ function setup() {
 
 function draw() {
   var elli = {
-    x: random(0, 400),
-    y: random(0, 400),
+    x: random(0, windowWidth),
+    y: random(0, windowHeight),
     colo: random(0, 255),
     r: random(0, 255),
     g: random(0, 255),
