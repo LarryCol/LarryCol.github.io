@@ -15,3 +15,10 @@ Read a dataset Salary.csv and do the following operations.
 Due date 	Tuesday, 2 June 2020, 1:00 PM
 
 https://send.firefox.com/download/a60dacc81761991b/#gF8MxWFG9eV5zfH4Vxig2g
+
+https://jakevdp.github.io/PythonDataScienceHandbook/03.03-operations-in-pandas.html
+https://scikit-learn.org/stable/modules/preprocessing_targets.html#label-encoding
+
+https://www.geeksforgeeks.org/python-create-test-datasets-using-sklearn/?ref=rp
+https://www.geeksforgeeks.org/ml-label-encoding-of-datasets-in-python/
+https://medium.com/@abhisheksingh007226/how-to-compress-csv-file-efficiently-in-just-25-lines-of-code-4e974b60b2b8
