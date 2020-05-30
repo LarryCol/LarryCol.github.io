@@ -1,0 +1,17 @@
+Assignment_Day7
+
+Read a dataset Salary.csv and do the following operations.
+
+- Show top 10 entries
+
+-What is the average BasePay ?
+
+- What is the highest amount of OvertimePay in the dataset ?
+
+- What was the average (mean) BasePay of all employees per year? (2011-2014) ?
+
+- What are the top 5 most common jobs?
+
+Due date 	Tuesday, 2 June 2020, 1:00 PM
+
+https://send.firefox.com/download/a60dacc81761991b/#gF8MxWFG9eV5zfH4Vxig2g
